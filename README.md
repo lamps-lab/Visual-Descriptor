@@ -17,10 +17,10 @@ Figures are in PNG format. <br>
 
 visual descriptors and metadata are in a txt file. This files gives the following infomation: <br>
 
-**patentID**: This is the patent ID in the USPTO database. One patent has a unique ID                   <br>
-patentdate: This is the data the patent was released.               <br>
-figid: This is the index for figures within a patent. A patent may contain many figures.             <br>
-caption: This is the figure caption.             <br>
-object: What is the object in the figure             <br>
-aspect: Which aspect of view is presented.             <br>
-figure_file: This is the file name for a figure. It can be used to match figures in the dataset.              <br>
+*patentID*: This is the patent ID in the USPTO database. One patent has a unique ID                   <br>
+*patentdate*: This is the data the patent was released.               <br>
+*figid*: This is the index for figures within a patent. A patent may contain many figures.             <br>
+*caption*: This is the figure caption.             <br>
+*object*: What is the object in the figure             <br>
+*aspect*: Which aspect of view is presented.             <br>
+*figure_file*: This is the file name for a figure. It can be used to match figures in the dataset.              <br>
