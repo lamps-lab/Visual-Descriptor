@@ -1,7 +1,7 @@
 
 Visual Descriptor Extraction
 ======
-In this directoty we provide two datasets. The first one Ground Truth corpus is a small one used for NLP purposes and the second one patent figure dataset is used for CV purposes.
+In this directoty we provide two datasets. The first one Ground Truth Corpus is a small one used for NLP purposes and the second one Patent Figure Dataset is used for CV purposes.
 
 # Ground Truth corpus
 
