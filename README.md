@@ -15,7 +15,7 @@ This dataset contains 66417 design patent figures along with their corresponding
 Figures are in total 3G and they can be found in Google Drive link:
 Figures are in PNG format. <br>
 
-visual descriptors and metadata are in a txt file. This files gives the following infomation: <br>
+Visual descriptors and metadata are in a txt file which can be found in this derectory. This files gives the following infomation: <br>
 
 *patentID*: This is the patent ID in the USPTO database. One patent has a unique ID                   <br>
 *patentdate*: This is the data the patent was released.               <br>
