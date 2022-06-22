@@ -12,7 +12,7 @@ This dataset is all about text. It can be used to train models in NLP domain.
 
 ### 2. Patent Figure Dataset
 This dataset contains 66417 design patent figures along with their corresponding visual descriptors and metadata. <br>
-Figures are in total 3G and they can be found in Google Drive link:
+Figures are in total 3G and they can be found in Google Drive link: https://drive.google.com/file/d/1Zc3ApBMtFh-Avk1PcZGFSc44mr-SLuUB/view?usp=sharing    <br>
 Figures are in PNG format. <br>
 
 Visual descriptors and metadata are in a txt file which can be found in this derectory. This file gives the following infomation: <br>
